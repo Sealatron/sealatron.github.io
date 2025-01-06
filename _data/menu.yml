@@ -1,0 +1,19 @@
+entries:
+  - title: about
+    url: about
+  - title: now
+    url: now
+  - title: links
+    entries:
+      - title: github
+        url: "https://github.com/sealatron"
+      - title: twitter
+        url: "https://twitter.com/amackie"
+      - title: bluesky
+        url: "https://bsky.app/profile/asm.foo"
+  - title: "my posts"
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: some more
+      show_more_url: posts

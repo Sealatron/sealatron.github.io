@@ -4,10 +4,18 @@ title: now
 permalink: /now/
 ---
 
-Last updated : 2024-12-23
+## What Is This?
 
-Location: Scotland
+I came across the idea of a _now_ page [here](https://nownownow.com/about), and it seemed like a good idea, so here's mine! Once I'm up to more, I'll include more here :).
 
-Doing: Visiting family for xmas :christmas_tree:
+## Updated
 
-Thinking About: Jekyll :upside_down_face:
+Last updated on 2025-01-06.
+
+## Work
+
+I've been working at Leonardo UK Ltd for the last 9 years as an Embedded C++ Software Engineer.
+
+## Doing
+
+Trying to get into more personal projects. Always fancied a website, so here is mine! Learning about Jekyll and looking around at other developer blogs to get ideas.
